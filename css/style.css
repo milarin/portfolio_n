@@ -88,6 +88,10 @@ main {
   color: rgba(97, 14, 14, 0.8);
 }
 
+.works {
+  margin-bottom: 30px;
+}
+
 .works .work_title {
   font-size: 13px;
 }
