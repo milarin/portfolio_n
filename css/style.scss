@@ -22,6 +22,7 @@ img {
 
 main {
   padding-top: 150px;
+  padding-bottom: 150px;
   min-height: 100vh;
   background-image: url(../images/Ejd4idTU4AAAR3G.jpeg);
   background-size: cover;
@@ -31,7 +32,8 @@ main {
 }
 
 .main_content {
-  height: 400vh;
+  // height: 250vh;
+  padding-bottom: 100px;
   border-radius: 5px;
   background-color: hsla(0,0%,100%,.9);
   text-align: center;
@@ -52,6 +54,10 @@ main {
 
 .profile {
   margin-bottom: 20px;
+}
+
+.name {
+  margin-bottom: 0;
 }
 
 .border_ {
@@ -85,7 +91,7 @@ main {
 }
 
 .works {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   .work_title {
     font-size: 13px;
   }
